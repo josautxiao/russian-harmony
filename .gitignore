@@ -1,0 +1,15 @@
+.DS_Store
+__pycache__/
+*.pyc
+.env
+.env.*
+.venv/
+sources/
+ocr/
+raw-ocr/
+harmony-work/
+deliverables/
+*.pdf
+*.epub
+*.traineddata
+*.dylib

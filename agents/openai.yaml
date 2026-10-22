@@ -1,0 +1,4 @@
+interface:
+  display_name: "俄罗斯和声"
+  short_description: "依据两部俄罗斯教材，按阿贝佐娃目录合并四部和声规则、比较差异并标注出处"
+  default_prompt: "使用 $russian-harmony，按俄罗斯四部和声教材分析或完成这道习题，并标明规则出处。"
