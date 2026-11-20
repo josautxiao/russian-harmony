@@ -1,5 +1,21 @@
 # Changelog
 
+## 0.2.0 — 2026-11-20
+
+### 中文
+
+- 新增两套经视觉核读的谱例与习题索引，覆盖 A-001–A-773、B-001–B-859 及 B 的 14 条附录综合题。含作品定位、写作正反例和带谱题的给定条件。
+- 增加页码清单、复核记录和[使用指南](references/score-workflow.md)，记录 OCR 与视觉核读的分工、拍数复算、人工订正、保留疑点，以及查例、移调和原创出题方式。
+- 保留 B-421.4 的原印 ₂，并记录两书的编号、印刷与识读例外。
+
+### English
+
+- Added visually reviewed score and exercise indexes for both textbooks and B's 14 appendix exercises, with chapter records, page lookup tables, corrections, uncertainties, and a guide for lookup, transposition and original exercise generation.
+
+### Русский
+
+- Добавлены указатели визуально проверенных нотных примеров и заданий двух учебников, включая 14 заданий приложения B, таблицы страниц, исправления, спорные места и руководство по поиску, транспонированию и составлению новых заданий.
+
 ## 0.1.0 — 2026-10-22
 
 ### 中文

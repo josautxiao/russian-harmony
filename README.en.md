@@ -50,6 +50,14 @@ Coverage includes primary and subsidiary chords, inversions, seventh and ninth c
 
 See the [full crosswalk](references/source-map.md) and [machine-readable index](references/source-index.json). Every topic has an entry, but the notes do not reproduce every score, exercise or uncommon variant.
 
+## New in 0.2.0 · Visual score references and exercises
+
+The update indexes A-001–A-773 and B-001–B-859, plus the 14 B appendix exercises. Chapter records cover teaching excerpts from works, written models and counterexamples, and piano, written, and oral tasks. Text OCR supported navigation. Score details came from visual inspection, rhythmic checks and manual review. Coverage includes documented gaps in the source.
+
+Use the records to locate a model, trace actual voice leading, transpose a verified passage or generate an original exercise with the same teaching constraints. B-421.4 retains the printed subscript ₂ with its meaning unresolved. Chapter records are primarily in Chinese.
+
+[A index](references/abyzova/index.md) · [B index](references/dubovsky/index.md) · [Method, usage and source uncertainties](references/score-workflow.md) · [Changelog](CHANGELOG.md)
+
 ## Differences are part of the model
 
 The textbooks do not use one identical system. Examples include the functions of III and VI, octave exceptions in a particular incomplete dominant-seventh final cadence, chromatic versus modulating sequences, and three-level versus four-level systems of key relationship.
